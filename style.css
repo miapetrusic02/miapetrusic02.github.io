@@ -475,7 +475,7 @@ h15{
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #1E1E1E;
+  background-color: black;
   color:white;
   font-size: 12px; 
   font-style: Roboto Mono;
